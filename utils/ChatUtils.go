@@ -10,7 +10,7 @@ import (
 
 // 定义请求的结构体
 const apiURL = "https://api.chatanywhere.tech/v1/chat/completions"
-const apiKey = "sk-gHRFZrwpAQ1EZZMHGj4RTejpnGneTDhlDTr65kHk2B0cpeaY" // 替换为你的实际 API 密钥
+const apiKey = "" // 替换为你的实际 API 密钥
 
 // RequestBody 代表请求体的结构
 type RequestBody struct {
